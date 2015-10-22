@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Link to \begin{displaymath} J(\theta)=\frac{1}{2m}\sum_{i=1}^{m}\left(h_{\theta}(x^{(i)})-y^{(i)}\right)^{2} \nonumber \end{displaymath}
+Type=Link
+URL=http://openclassroom.stanford.edu/MainFolder/courses/DeepLearning/exercises/ex2/img19.png
+Icon=image-png

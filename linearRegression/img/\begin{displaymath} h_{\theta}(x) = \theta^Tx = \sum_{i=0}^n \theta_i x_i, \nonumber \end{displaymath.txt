@@ -1,0 +1,2 @@
+\begin{displaymath} h_{\theta}(x) = \theta^Tx = \sum_{i=0}^n \theta_i x_i, \nonumber \end{displaymath}
+
